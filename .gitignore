@@ -21,6 +21,8 @@ desktop.ini
 # Data (no subir datasets grandes)
 datasets/raw/*
 datasets/processed/*
+projects/*/data/*
+!projects/*/data/.gitkeep
 
 .databricks
 # Databricks local config
