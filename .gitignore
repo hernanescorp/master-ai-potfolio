@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# OS files
+desktop.ini
+.DS_Store
+
+# Data (no subir datasets grandes)
+datasets/raw/*
+datasets/processed/*
