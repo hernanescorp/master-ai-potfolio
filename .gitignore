@@ -8,6 +8,8 @@ __pycache__/
 # Virtual environments
 venv/
 .env/
+.venv/
+.venv-*/
 
 # VS Code
 .vscode/
@@ -19,3 +21,7 @@ desktop.ini
 # Data (no subir datasets grandes)
 datasets/raw/*
 datasets/processed/*
+
+.databricks
+# Databricks local config
+.databricks/
