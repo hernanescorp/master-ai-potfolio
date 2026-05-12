@@ -547,14 +547,6 @@ Gracias a este entorno puedo aprender sobre:
 
 ---
 
-# 16. Relación con el mundo profesional
-
-Este tipo de infraestructura es similar a la usada en:
-
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}
 
 La diferencia es que aquí el hardware es propiedad de la universidad.
 
