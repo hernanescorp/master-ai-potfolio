@@ -584,3 +584,5 @@ Este entorno es ideal para aprender:
 - Infraestructura moderna
 - Sistemas distribuidos
 - Computación acelerada
+
+![Tensor Illustration](../images/diagrams/cluster_ia.png)
