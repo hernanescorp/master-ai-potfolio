@@ -5,5 +5,7 @@ matplotlib
 seaborn
 jupyter
 ipykernel
+keras
+jax[cpu]
 pyspark
 databricks-connect

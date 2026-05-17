@@ -12,5 +12,7 @@ dependencies:
   - ipykernel
   - pip
   - pip:
+      - keras
+      - jax[cpu]
       - pyspark
       - databricks-connect
